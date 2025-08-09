@@ -1,4 +1,4 @@
-package org.example.turboaz;
+package org.example.turboaz.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.ResourceHandlerRegistry;
