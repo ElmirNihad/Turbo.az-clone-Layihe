@@ -2,8 +2,8 @@ package org.example.turboaz;
 
 import jakarta.annotation.PostConstruct;
 import lombok.RequiredArgsConstructor;
-import org.example.turboaz.Entity.User;
-import org.example.turboaz.Repository.UserRepository;
+import org.example.turboaz.entity.User;
+import org.example.turboaz.repository.UserRepository;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.crypto.password.PasswordEncoder;
 
